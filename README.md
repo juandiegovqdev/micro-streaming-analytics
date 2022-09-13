@@ -1,1 +1,1 @@
-# micro-streaming-analytics
+# Micro Streaming Analytics
